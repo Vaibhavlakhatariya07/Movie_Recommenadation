@@ -135,11 +135,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
-## 👥 Contact
-
-Parth Lathiya - [Your Email]
-Project Link: [https://github.com/parthalathiya03/Movie_Recommenadation](https://github.com/parthalathiya03/Movie_Recommenadation)
-
 ## 🙏 Acknowledgments
 
 - TMDB for the movie dataset
