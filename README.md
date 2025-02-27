@@ -39,10 +39,6 @@ The system uses the TMDB movie dataset containing:
 ## 💻 Installation
 
 ```bash
-# Clone the repository
-git clone https://github.com/parthalathiya03/Movie_Recommenadation.git
-cd Movie_Recommenadation
-
 # Create virtual environment
 python -m venv venv
 source venv/bin/activate  # For Linux/Mac
